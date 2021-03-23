@@ -1,0 +1,7 @@
+-git clone
+
+-G﻿it
+
+-git update
+
+-﻿git log﻿
